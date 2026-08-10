@@ -101,7 +101,8 @@ Exact files may vary depending on the project version, but the application gener
 1. Open a terminal in the project folder:
 
 ```bash
-cd "C:\Users\mihir\OneDrive\Documents\AI-Security-Projects\03-secure-rag-application"
+git clone https://github.com/mihirhbhatt/Ai-Security-Projects.git
+cd 03-secure-rag-application
 ```
 
 2. Create and activate a virtual environment:
