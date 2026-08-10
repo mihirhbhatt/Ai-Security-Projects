@@ -7,7 +7,7 @@ boundaries stop the dangerous action from executing.
 
 ## Business Scenario
 
-An internal agent for "Northwind Retail" IT support with three tools: read support documents,
+An internal agent for "AI Secure Labs" IT support with three tools: read support documents,
 create a service ticket, and query a fictional asset inventory.
 
 ## Architecture — Before (Insecure Design)
