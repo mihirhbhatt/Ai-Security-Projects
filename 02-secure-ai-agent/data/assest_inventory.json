@@ -1,0 +1,5 @@
+{
+    "USER_01": {"name": "Alice Smith", "role": "Marketing", "device": "MacBook", "clearance": "L1"},
+    "USER_02": {"name": "Bob Jones", "role": "Sales", "device": "ThinkPad", "clearance": "L1"},
+    "SYS_ADMIN": {"name": "Admin Root", "role": "IT", "device": "Secure-Vault-01", "secret_key": "XP-PROD-NORTH-7722", "clearance": "L3"}
+}
