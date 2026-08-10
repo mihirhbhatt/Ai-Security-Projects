@@ -1,3 +1,6 @@
+# Secure RAG Application
+
+```mermaid
 flowchart TB
     subgraph Untrusted["Untrusted Zone (Attack Surface)"]
         Emp([Employee User])
@@ -31,3 +34,4 @@ flowchart TB
     Gatekeeper -->|final response| Emp
     
     PoisonedDocs -->|ingest| VDB
+```
