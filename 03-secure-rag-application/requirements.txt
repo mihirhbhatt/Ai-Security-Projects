@@ -1,0 +1,14 @@
+# LLM APIs
+ollama
+openai
+
+# Environment & Config
+python-dotenv
+pydantic
+
+# Vector Database (for RAG)
+chromadb
+sentence-transformers
+
+# UI / Logging (Used for the Security Audit look)
+rich
