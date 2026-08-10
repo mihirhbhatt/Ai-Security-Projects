@@ -1,0 +1,8 @@
+python-dotenv
+openai
+google-generativeai
+requests
+pydantic
+pandas
+openpyxl
+ollama
